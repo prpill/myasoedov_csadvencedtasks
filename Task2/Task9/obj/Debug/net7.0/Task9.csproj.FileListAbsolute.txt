@@ -1,0 +1,15 @@
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/bin/Debug/net7.0/Task9
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/bin/Debug/net7.0/Task9.deps.json
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/bin/Debug/net7.0/Task9.runtimeconfig.json
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/bin/Debug/net7.0/Task9.dll
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/bin/Debug/net7.0/Task9.pdb
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/Task9.csproj.AssemblyReference.cache
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/Task9.GeneratedMSBuildEditorConfig.editorconfig
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/Task9.AssemblyInfoInputs.cache
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/Task9.AssemblyInfo.cs
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/Task9.csproj.CoreCompileInputs.cache
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/Task9.dll
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/refint/Task9.dll
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/Task9.pdb
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/Task9.genruntimeconfig.cache
+/home/dunice/MyProject/C#Advanced/Exercise/Task9/obj/Debug/net7.0/ref/Task9.dll

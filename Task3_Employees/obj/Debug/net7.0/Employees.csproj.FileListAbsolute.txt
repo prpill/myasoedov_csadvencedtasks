@@ -1,0 +1,15 @@
+/home/dunice/MyProject/C#Advanced/Employees/bin/Debug/net7.0/Employees
+/home/dunice/MyProject/C#Advanced/Employees/bin/Debug/net7.0/Employees.deps.json
+/home/dunice/MyProject/C#Advanced/Employees/bin/Debug/net7.0/Employees.runtimeconfig.json
+/home/dunice/MyProject/C#Advanced/Employees/bin/Debug/net7.0/Employees.dll
+/home/dunice/MyProject/C#Advanced/Employees/bin/Debug/net7.0/Employees.pdb
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/Employees.csproj.AssemblyReference.cache
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/Employees.GeneratedMSBuildEditorConfig.editorconfig
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/Employees.AssemblyInfoInputs.cache
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/Employees.AssemblyInfo.cs
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/Employees.csproj.CoreCompileInputs.cache
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/Employees.dll
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/refint/Employees.dll
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/Employees.pdb
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/Employees.genruntimeconfig.cache
+/home/dunice/MyProject/C#Advanced/Employees/obj/Debug/net7.0/ref/Employees.dll

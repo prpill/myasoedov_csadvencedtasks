@@ -1,0 +1,15 @@
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/bin/Debug/net7.0/Sorting collection 2
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/bin/Debug/net7.0/Sorting collection 2.deps.json
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/bin/Debug/net7.0/Sorting collection 2.runtimeconfig.json
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/bin/Debug/net7.0/Sorting collection 2.dll
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/bin/Debug/net7.0/Sorting collection 2.pdb
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.csproj.AssemblyReference.cache
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.AssemblyInfoInputs.cache
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.AssemblyInfo.cs
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.csproj.CoreCompileInputs.cache
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.dll
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/refint/Sorting collection 2.dll
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.pdb
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.genruntimeconfig.cache
+/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/ref/Sorting collection 2.dll

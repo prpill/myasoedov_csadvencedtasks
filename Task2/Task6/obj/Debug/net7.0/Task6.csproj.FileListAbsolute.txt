@@ -1,0 +1,15 @@
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/bin/Debug/net7.0/Task6
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/bin/Debug/net7.0/Task6.deps.json
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/bin/Debug/net7.0/Task6.runtimeconfig.json
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/bin/Debug/net7.0/Task6.dll
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/bin/Debug/net7.0/Task6.pdb
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/Task6.csproj.AssemblyReference.cache
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/Task6.AssemblyInfoInputs.cache
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/Task6.AssemblyInfo.cs
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/Task6.csproj.CoreCompileInputs.cache
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/Task6.dll
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/refint/Task6.dll
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/Task6.pdb
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/Task6.genruntimeconfig.cache
+/home/dunice/MyProject/C#Advanced/Exercise/Task6/obj/Debug/net7.0/ref/Task6.dll
