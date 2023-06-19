@@ -16,15 +16,20 @@
 //  4. при нахождении файла необходимо вывести в консоль сообщение с полным путем 
 //     до файла;
 //  5. после обхода всей файловой системы приложение должно завершиться.
-
+using System;
+using System.IO;
+using System.Threading;
+using System.Collections.Generic;
 
 namespace Multithread
 {
+
     class Program
     {
         static void Main(string[] args)
         {
-
+            FileSearch fileSearch = new FileSearch("1xt","/home");
+            fileSearch.Print();
         }
     }
 }

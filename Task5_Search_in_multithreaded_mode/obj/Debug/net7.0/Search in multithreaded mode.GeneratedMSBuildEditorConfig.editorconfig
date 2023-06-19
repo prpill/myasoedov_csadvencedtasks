@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Search_in_multithreaded_mode
-build_property.ProjectDir = /home/dunice/MyProject/C#Advanced/Search in multithreaded mode/
+build_property.ProjectDir = /home/dunice/CS_Advenced/Task5_Search_in_multithreaded_mode/

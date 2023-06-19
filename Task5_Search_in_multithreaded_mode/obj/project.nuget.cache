@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HQgplIIIXZA4jYYkaEU8fzGbQvTiPODq9PASq5Swf4HOKRYQmXVAIoRDfN3t1AA2x31qfYhaP/LKwsTs2uMGuw==",
+  "dgSpecHash": "WO9yfCkr/YQEzCEoZcqsAiX4FjnfXJ+NsgFzMXzYkj7BL0hHXoyOB36EJrqT/8/jvFTHjAXggn/xQWD2yi0DXw==",
   "success": true,
-  "projectFilePath": "/home/dunice/MyProject/C#Advanced/Search in multithreaded mode/Search in multithreaded mode.csproj",
+  "projectFilePath": "/home/dunice/CS_Advenced/Task5_Search_in_multithreaded_mode/Search in multithreaded mode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dunice/MyProject/C#Advanced/Search in multithreaded mode/Search in multithreaded mode.csproj": {}
+    "/home/dunice/CS_Advenced/Task5_Search_in_multithreaded_mode/Search in multithreaded mode.csproj": {}
   },
   "projects": {
-    "/home/dunice/MyProject/C#Advanced/Search in multithreaded mode/Search in multithreaded mode.csproj": {
+    "/home/dunice/CS_Advenced/Task5_Search_in_multithreaded_mode/Search in multithreaded mode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dunice/MyProject/C#Advanced/Search in multithreaded mode/Search in multithreaded mode.csproj",
+        "projectUniqueName": "/home/dunice/CS_Advenced/Task5_Search_in_multithreaded_mode/Search in multithreaded mode.csproj",
         "projectName": "Search in multithreaded mode",
-        "projectPath": "/home/dunice/MyProject/C#Advanced/Search in multithreaded mode/Search in multithreaded mode.csproj",
+        "projectPath": "/home/dunice/CS_Advenced/Task5_Search_in_multithreaded_mode/Search in multithreaded mode.csproj",
         "packagesPath": "/home/dunice/.nuget/packages/",
-        "outputPath": "/home/dunice/MyProject/C#Advanced/Search in multithreaded mode/obj/",
+        "outputPath": "/home/dunice/CS_Advenced/Task5_Search_in_multithreaded_mode/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dunice/.nuget/NuGet/NuGet.Config"
