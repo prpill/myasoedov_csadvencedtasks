@@ -19,13 +19,11 @@ namespace Sorting
             {
                 Console.WriteLine("Main menu\n");
 
-                Console.WriteLine("To display a collection of alphabetically sorted items");
-                Console.WriteLine("To display a collection of strings with an added message");
-                Console.WriteLine("To display a collection of numbers");
-                Console.WriteLine("To display a collection of alphabetically sorted items without duplicates");
+                Console.WriteLine("To display a collection of alphabetically sorted items ======================== Enter 1");
+                Console.WriteLine("To display a collection of strings with an added message ====================== Enter 2");
+                Console.WriteLine("To display a collection of numbers ============================================ Enter 3");
+                Console.WriteLine("To display a collection of alphabetically sorted items without duplicates ===== Enter 4");
                 Console.WriteLine("Enter any value to exit the application...");
-                Console.Write("\nInput: ");
-
                 Console.Write("Input: ");
 
                 switch (Console.ReadKey().KeyChar)

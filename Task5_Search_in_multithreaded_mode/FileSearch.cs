@@ -5,6 +5,7 @@
         private string fileName;
         private string directory;
         private List<Thread> listThread = new List<Thread>();
+        public int ListThreadCount {get{return listThread.Count;}}
         private static int maxThread = Environment.ProcessorCount;
         private List<string> message = new List<string>(); 
         public List<string> Message { get { return message; } }
@@ -15,7 +16,7 @@
             Search(directory);
         }
 
-        private void Search(object? obj)
+        private void Search(object obj)
         {
             string path = (string)obj;
 

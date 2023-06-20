@@ -54,15 +54,13 @@
             
             SearchFile searchFile = new SearchFile(nameFile, pathDirectory);
 
-            while (true)
-            {
-                if (System.Diagnostics.Process.GetCurrentProcess().Threads.Count > 1)
-                {
-                    Thread.Sleep(100);
-                }
-                else
-                    break;
-            }
+            // while(true)
+            // {
+            //     if(searchFile.ListThreadCount == -1)
+            //         break;
+            //     else
+            //         Thread.Sleep(100);
+            // }
 
             if (searchFile.Message.Count == 0)
                 Console.WriteLine("\nFiles not found");

@@ -1,20 +1,46 @@
 ﻿//  Провалидировать строку на закрывающиеся скобки.
-
+// "{[[]{}]}()()"
 class Program
 {
     static void Main(string[] args)
     {
-        // Console.Write("\nInput:  ");
+        while (true)
+        {
+            MainMethod();
+            
+            Console.WriteLine("\nWould you like to re-check? 1 - Yes, Other - No");
+            char select = Console.ReadKey().KeyChar;
+            if (select != '1')
+                break;
+        }
+    }
+    static void MainMethod()
+    {
+        Console.Write("\nEnter the string to be failed: ");
 
-        // string userInput = Console.ReadLine();
+        string userInput = Console.ReadLine();
+        
+        Console.Write("\nOutput: ");
 
-        string userInput = "{[[]{}]}()()";
+        string brackets = GetBrackets(userInput);
 
-        Console.Write("Output: ");
+        bool validationValue = ValidateString(brackets);
 
-        bool a = ValidateString(userInput);
+        if (validationValue)
+            Console.WriteLine("Parentheses are set correctly");
+        else
+            Console.WriteLine("Parentheses are not set correctly");
+    }
+    static string GetBrackets(string userInput)
+    {
+        string brackets = "";
 
-        Console.WriteLine(a);
+        foreach (var symbol in userInput)
+        {
+            if (symbol == '(' || symbol == ')' || symbol == '{' || symbol == '}' || symbol == '[' || symbol == ']')
+            brackets += symbol;
+        }
+        return brackets;
     }
     static bool ValidateString(string userInput)
     {

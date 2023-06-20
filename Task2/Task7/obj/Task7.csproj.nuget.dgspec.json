@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dunice/MyProject/C#Advanced/Exercise/Task7/Task7.csproj": {}
+    "/home/dunice/CS_Advenced/Task2/Task7/Task7.csproj": {}
   },
   "projects": {
-    "/home/dunice/MyProject/C#Advanced/Exercise/Task7/Task7.csproj": {
+    "/home/dunice/CS_Advenced/Task2/Task7/Task7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dunice/MyProject/C#Advanced/Exercise/Task7/Task7.csproj",
+        "projectUniqueName": "/home/dunice/CS_Advenced/Task2/Task7/Task7.csproj",
         "projectName": "Task7",
-        "projectPath": "/home/dunice/MyProject/C#Advanced/Exercise/Task7/Task7.csproj",
+        "projectPath": "/home/dunice/CS_Advenced/Task2/Task7/Task7.csproj",
         "packagesPath": "/home/dunice/.nuget/packages/",
-        "outputPath": "/home/dunice/MyProject/C#Advanced/Exercise/Task7/obj/",
+        "outputPath": "/home/dunice/CS_Advenced/Task2/Task7/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dunice/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
         }
       }
     }

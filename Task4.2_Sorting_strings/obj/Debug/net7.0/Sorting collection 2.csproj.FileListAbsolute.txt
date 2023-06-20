@@ -13,3 +13,18 @@
 /home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.pdb
 /home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/Sorting collection 2.genruntimeconfig.cache
 /home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/Debug/net7.0/ref/Sorting collection 2.dll
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/bin/Debug/net7.0/Sorting collection 2
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/bin/Debug/net7.0/Sorting collection 2.deps.json
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/bin/Debug/net7.0/Sorting collection 2.runtimeconfig.json
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/bin/Debug/net7.0/Sorting collection 2.dll
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/bin/Debug/net7.0/Sorting collection 2.pdb
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/Sorting collection 2.csproj.AssemblyReference.cache
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/Sorting collection 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/Sorting collection 2.AssemblyInfoInputs.cache
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/Sorting collection 2.AssemblyInfo.cs
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/Sorting collection 2.csproj.CoreCompileInputs.cache
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/Sorting collection 2.dll
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/refint/Sorting collection 2.dll
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/Sorting collection 2.pdb
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/Sorting collection 2.genruntimeconfig.cache
+/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/Debug/net7.0/ref/Sorting collection 2.dll

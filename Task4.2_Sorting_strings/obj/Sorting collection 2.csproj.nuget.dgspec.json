@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dunice/MyProject/C#Advanced/Sorting collection 2/Sorting collection 2.csproj": {}
+    "/home/dunice/CS_Advenced/Task4.2_Sorting_strings/Sorting collection 2.csproj": {}
   },
   "projects": {
-    "/home/dunice/MyProject/C#Advanced/Sorting collection 2/Sorting collection 2.csproj": {
+    "/home/dunice/CS_Advenced/Task4.2_Sorting_strings/Sorting collection 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dunice/MyProject/C#Advanced/Sorting collection 2/Sorting collection 2.csproj",
+        "projectUniqueName": "/home/dunice/CS_Advenced/Task4.2_Sorting_strings/Sorting collection 2.csproj",
         "projectName": "Sorting collection 2",
-        "projectPath": "/home/dunice/MyProject/C#Advanced/Sorting collection 2/Sorting collection 2.csproj",
+        "projectPath": "/home/dunice/CS_Advenced/Task4.2_Sorting_strings/Sorting collection 2.csproj",
         "packagesPath": "/home/dunice/.nuget/packages/",
-        "outputPath": "/home/dunice/MyProject/C#Advanced/Sorting collection 2/obj/",
+        "outputPath": "/home/dunice/CS_Advenced/Task4.2_Sorting_strings/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dunice/.nuget/NuGet/NuGet.Config"
