@@ -17,7 +17,7 @@
 //     до файла;
 //  5. после обхода всей файловой системы приложение должно завершиться.
 
-﻿namespace MultiThread
+namespace MultiThread
 {
     class Program
     {
