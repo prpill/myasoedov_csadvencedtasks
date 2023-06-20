@@ -16,20 +16,53 @@
 //  4. при нахождении файла необходимо вывести в консоль сообщение с полным путем 
 //     до файла;
 //  5. после обхода всей файловой системы приложение должно завершиться.
-using System;
-using System.IO;
-using System.Threading;
-using System.Collections.Generic;
 
-namespace Multithread
+﻿namespace MultiThread
 {
-
     class Program
     {
         static void Main(string[] args)
         {
-            FileSearch fileSearch = new FileSearch("1xt","/home");
-            fileSearch.Print();
+            Console.WriteLine("Enter the name of the file you are looking for");
+            
+            string nameFile;
+
+            while (true)
+            {
+                Console.Write("\nInput: ");
+
+                nameFile = Console.ReadLine();
+                if (!string.IsNullOrEmpty(nameFile))
+                    break;
+                else
+                    Console.WriteLine("This field must not be empty");
+            }
+
+            string pathDirectory;
+
+            while (true)
+            {
+                Console.Write("\nEnter the directory where you want to start searching: ");
+
+                pathDirectory = Console.ReadLine();
+
+                if(Directory.Exists(pathDirectory))
+                    break;
+                else
+                    Console.WriteLine("This directory was not found");
+            }
+            
+            SearchFile searchFile = new SearchFile(nameFile, pathDirectory);
+
+            Thread.Sleep(300);
+
+            if (searchFile.Message.Count == 0)
+                Console.WriteLine("\nFiles not found");
+            else
+                foreach (var item in searchFile.Message)
+                {
+                    Console.WriteLine(item);
+                }
         }
     }
 }

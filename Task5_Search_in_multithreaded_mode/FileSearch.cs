@@ -1,63 +1,60 @@
-namespace Multithread
+﻿namespace MultiThread
 {
-    class FileSearch
+    class SearchFile
     {
-        private string nameFile;
+        private string fileName;
         private string directory;
-        
-        public FileSearch(string nameFile, string directory)
-        {
-            this.nameFile = nameFile;
-            this.directory = directory;
-            SearchFile(directory);
-        }
-        static int maxThread = Environment.ProcessorCount;
         private List<Thread> listThread = new List<Thread>();
-        private List<string> foundFiles {get; set;}
-        
-        public void Print() 
+        private static int maxThread = Environment.ProcessorCount;
+        private List<string> message = new List<string>(); 
+        public List<string> Message { get { return message; } }
+        public SearchFile(string fileName, string directory)
         {
-            foreach (var str in foundFiles)
-            {
-                Console.WriteLine(str);
-            }
+            this.fileName = fileName;
+            this.directory = directory;
+            Search(directory);
         }
 
-        private void SearchFile(object obj)
+        private void Search(object? obj)
         {
-            string dir = (string)obj;
-            foreach (var file in Directory.GetFiles(dir))
+            string path = (string)obj;
+
+            foreach (var file in Directory.GetFiles(path))
             {
-                if (file == dir + "/" + nameFile) 
+                if (Path.GetFileName(file).StartsWith(fileName))
                 {
-                    foundFiles.Add(file);
-                    return;
+                    message.Add(file);
                 }
             }
-            string[] dirArr = Directory.GetDirectories(dir);
-            if ( dirArr == null)
+            if (Directory.GetDirectories(path).Length == 0)
+                return;
+
+            foreach (var directory in Directory.GetDirectories(path))
             {
-                if (Thread.CurrentThread.Name == "searchThread")
-                    return;
-            }
-            
-            foreach (var searchDir in dirArr)
-            {
-                if (listThread.Count < maxThread)
-                    CreateThread(searchDir);
-                else
-                    SearchFile(searchDir);
+                CreateThread(directory);
             }
         }
-        private void CreateThread(string dir)
+        private void CreateThread(string path)
         {
-            var searchThread = new Thread(SearchFile); // new ParameterizedThreadStart(SearchFile)
-            
-            listThread.Add(searchThread);
+            while (true)
+            {
+                lock (listThread)
+                {
+                    if (listThread.Count < maxThread)
+                    {
+                        Thread newThread = new Thread(Search);
 
-            searchThread.Start(dir);    
+                        listThread.Add(newThread);
 
+                        newThread.Start(path);
+
+                        break;
+                    }
+                    else
+                        Thread.Sleep(100);
+                }
+            }
             listThread.Remove(Thread.CurrentThread);
-        }
+        }    
     }
 }
